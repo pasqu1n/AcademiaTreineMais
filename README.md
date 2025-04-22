@@ -34,14 +34,40 @@ Este sistema é voltado para uma academia pequena, para realizar :
 ## Telas
 
 ### Tela de login
-- Campos de entrada: Espaço para o nome de usuário, Cpf ou e-mail e uma senha.
-- Botão de login: Para confirmar as credenciais e prosseguir.
-- Links adicionais: Como opções para "Esqueceu a senha?" ou "Criar uma conta".
-- Logo: Para identificar o sistema ou a aplicação.
-- Mensagens de erro: Avisos aparecem caso o login falhe por credenciais incorretas.
+- Permite que usuários, como clintes e fucionários, entrem no sistema e criem contas. 
 
 ### Tela incial 
--
+- Exibe informações resumidas e métricas relevantes (Agenda de aulas, status de pagamento, etc.).
+
+### Tela de Gestão de Clientes 
+- Cadastro de edição de dados de clientes (nome, CPF, contatos, objetivos, etc.).
+
+### Tela de gestão de funcionários 
+- Registro de funcionários, controle de horários e cargos.
+
+### Tela de Planos e Serviços 
+- Visualização criação e edição de planos de assinatura ou serviços adicionais (personal trainer, avaliação física, etc.).
+
+### Tela de Agendamento de Aulas 
+- Permite os clientes reservarem aulas ou horários de treino.
+
+### Tela de Controle de Acesso
+- Registro de entrada e saídas, integrado com catracas ou sistemas de RFID.
+
+### Tela Financeiro
+- Gerencie pagamentos, exibe histórico financeiro e permite emitir boletos ou integrar sistemas de pagamento.
+
+### Tela de Relatórios 
+- Geração de relatórios para administração, como frequência, faturamento e desempenho de aulas.
+
+### Tela de Configurações 
+- Ajuste gerais do sistema, como permissões de usuários, idiomas e temas.
+
+### Tela de suporte 
+- Para os usuários acessarem ajuda e resolverem dúvidas sobre o sistema.
+
+### Tela de Avaliação Física
+- Registro e acompanhamento dos resultados de avaliações físicas do dos clientes. 
 
 
 
