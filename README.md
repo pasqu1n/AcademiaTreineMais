@@ -52,7 +52,7 @@ Este sistema é voltado para uma academia pequena, para realizar :
 - Permite os clientes reservarem aulas ou horários de treino.
 
 ### Tela de Controle de Acesso
-- Registro de entrada e saídas, integrado com catracas ou sistemas de RFID.
+- Registro de entrada e saídas, integrado com catracas.
 
 ### Tela Financeiro
 - Gerencie pagamentos, exibe histórico financeiro e permite emitir boletos ou integrar sistemas de pagamento.
